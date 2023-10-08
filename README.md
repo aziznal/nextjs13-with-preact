@@ -1,3 +1,16 @@
+# Nextjs 13 with Preact (non-working example)
+
+This was my attempt at trying out preact with nextjs to make use of things like preact signals.
+
+The steps I took to set this up were the following:
+
+- I read [this article](https://dev.to/dephraiim/use-preact-in-nextjs-13-24pp)
+
+Unfortunately, it seems like there's a version mismatch between preact and react 18 which
+is causing the whole thing to not work, so this example is useless.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
